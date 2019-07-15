@@ -6,3 +6,7 @@ Before you start, run the "setup.sh" file, which will install aircrack-ng on you
 To start, type "python3 main.py"
 
 Contact information you can find in the file "DEVELOPER"
+
+Tested on:
+  Parrot OS 4.7
+  Kali Linux 2019.2
