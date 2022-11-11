@@ -8,5 +8,6 @@ To start, type "python3 main.py"
 Contact information you can find in the file "DEVELOPER"
 
 ## Tested on:
-* Parrot OS 4.7
-* Kali Linux 2019.2
+* Parrot OS 5.1
+* Kali Linux 2022.1
+* Debian 10
